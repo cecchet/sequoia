@@ -1,0 +1,1 @@
+Sequoia is a database clustering middleware offering load balancing and high availability. Databases are replicated over multiple nodes and Sequoia balances the queries between them. Sequoia provides transparent failover, supports online maintenance and hot recovery operations.
